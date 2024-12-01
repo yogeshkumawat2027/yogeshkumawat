@@ -2,7 +2,7 @@
 
 👀 I’m interested in web and app dev and DEVOPS.
 
-🌱 I’m currently learning full-stack development (MERN) and working on projects games like Simon Says and Business Game. 
+🌱 I’m currently learning full-stack development (MERN) and working on project  Business Game. 
 
 💞️ I’m looking to collaborate on projects that involve web applications.
 
