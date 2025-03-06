@@ -1,11 +1,11 @@
 👋 Hi, I’m Yogesh Kumawat
 
-👀 I’m interested in web and app dev and DEVOPS.
+👀 I’m interested in web and app development, as well as DevOps.
 
-🌱 I’m currently learning full-stack development (MERN) and working on project  Business Game. 
+🌱 I’ve completed full-stack web development (MERN) and built New Business Game (newbusinessgame.online). Currently, I’m working on a full-stack Airbnb-like project.
 
-💞️ I’m looking to collaborate on projects that involve web applications.
+💞️ I’m looking to collaborate on web application projects.
 
-📫 How to reach me: yogeshkumawat2027@gmail.com
+📫 Reach me at yogeshkumawat2027@gmail.com
 
-⚡ Fun fact: I enjoy combining creativity and coding to build unique digital experiences, and I’m constantly exploring new ideas.
+⚡ Fun fact: I enjoy combining creativity and coding to build unique digital experiences, and I’m always exploring new ideas!.
